@@ -82,7 +82,7 @@ To run this project locally:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/alph25011/cafe-sales-data-cleaning-and--analysis.git
+   git clone https://github.com/prathampatel2306/cafe-sales-data-cleaning-and--analysis.git
    ```
 2. Install dependencies
    ```bash
@@ -97,4 +97,4 @@ To run this project locally:
 
 ## Author
 
-**alph25011** — [GitHub Profile](https://github.com/alph25011)
+**prathampatel2306** — [GitHub Profile](https://github.com/prathampatel2306)
